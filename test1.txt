@@ -1,0 +1,55 @@
+<html >
+ <link rel="stylesheet" href="main.css">
+<head>
+<title>Temples</title>
+</head>
+<div class="background">
+    <div class="doc-back" >
+          <body>
+          <div class="content" >
+       <h1><span>Temples in Himachal Pradesh</span></h1>
+               <hr width="90%"></hr>
+               <br>
+                    <div class="head1">
+                   
+                    </div>
+                   <br><br><br>
+                    <center>
+                      <div class="item">
+                       <a href="hadimba.html"><img src="pics\temples\hadimba.jpeg" width="260" height="200" alt="Hadimba Temple" border="none">
+                        <span class="caption">Hadimba Temple</span>
+                        </a>
+                      </div>
+
+                      <div class="item">
+                       <a href="fares.html"><img  src="pics\fares.jpg" width="260" height="200" alt="Fares" border="none"> </a>                   
+                      <span class="caption">Fares</span>  
+                      
+                      </div>
+
+                      <div class="item">
+                     <a href="lakes.html"><img  src="pics\lakes.jpeg" width="260" height="200" alt="Lakes" border="none">   </a>          
+                      <span class="caption">Lakes</span>
+                   
+                     </div>
+                <br><br><br><br>
+
+                      <div class="item">
+                     <a href="tourism.html"><img  src="pics\tourism.jpg" width="260" height="200" alt="Tourism" border="none">  </a>                   
+                     <span class="caption">Tourism</span>
+                     
+                     </div> 
+
+                     <div class="item">
+                    <a href="national-p.html"><img  src="pics\national-p.jpeg" width="260" height="200" alt="National-Parks" border="none">  </a>                
+                    <span class="caption">National-Parks</span>
+                       
+                   </div>
+
+                 </center>
+              </div>
+            </div>
+          </body>   
+      </div>
+    </div>
+</html>

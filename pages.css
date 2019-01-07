@@ -1,0 +1,30 @@
+
+
+h1{ 
+        text-align:center;
+        text-size:100%;
+        color:blue;
+}
+html {
+  background:url(pics/background.jpeg) center;
+  background-size:cover;
+}
+body {
+        background:rgba(0,0,0,0.5);
+}
+.text {
+        text-align:center;
+        display:inline-block;
+}
+.image {
+          align:right;
+           display:block;
+}
+.text {
+        text-align:center;
+        display:inline-block;
+}
+.image {
+         image-align:right;
+           display:block;
+}
